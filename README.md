@@ -25,13 +25,13 @@ A modern, responsive web application built with Vue 3 and TypeScript that displa
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Node.js 16+ and npm (or yarn/pnpm)
+- Node.js 20+ and npm (or yarn/pnpm)
 
 ### Installation
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/parsajiravand/rest-countries-api.git
    cd rest-countries-api
    ```
 
@@ -169,15 +169,6 @@ VITE_APP_DESCRIPTION="A Vue.js application for exploring countries"
 ✅ **URL Query Parameters**: Shareable filtered views
 ✅ **Lazy Loading**: Optimized image loading with loading states
 
-## 🔮 Future Enhancements
-
-- [ ] Unit Testing (Vitest)
-- [ ] Server-Side Rendering (Nuxt.js)
-- [ ] Progressive Web App (PWA) features
-- [ ] Country comparison mode
-- [ ] Interactive map integration
-- [ ] Advanced filtering options
-- [ ] Data visualization charts
 
 ## 🤝 Contributing
 
